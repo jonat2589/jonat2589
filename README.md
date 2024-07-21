@@ -1,5 +1,3 @@
-
-
 ### Ola! Eu sou o jonathan Carvalho 🙋‍♂️
 
 ![Blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -7,3 +5,8 @@
 
 
 ![jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jonat2589&show_icons=true&theme=dracula)
+
+Estou sempre aprendendo novas técnicas e ferramentas para me manter atualizado no campo de ciência de dados.
+
+
+### Meu contato +51972008067

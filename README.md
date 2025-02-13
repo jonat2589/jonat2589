@@ -4,8 +4,8 @@
 🔹 Desenvolvendo projetos em **Ciência de Dados para Finanças e Otimização de Investimentos**.  
 🔹 Experiência com **Python, Pandas, NumPy, Seaborn, Matplotlib e SQL**.  
 🔹 Estudando **Inglês Técnico** e cursando **inglês intensivo** para aprimorar minhas habilidades.
-🔹 Espanhol intermediário, permitindo comunicação eficaz em projetos internacionais.
-🔹 Interesse em Machine Learning, Estatística Aplicada e Análise de Dados para Tomada de Decisão.
+🔹 Espanhol intermediário, permitindo comunicação eficaz em projetos internacionais.**
+🔹 Interesse em Machine Learning, Estatística Aplicada e Análise de Dados para Tomada de Decisão.**
 
 
 🚀 Sempre aprendendo e compartilhando conhecimento!  
